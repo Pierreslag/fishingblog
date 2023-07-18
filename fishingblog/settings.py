@@ -33,6 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['fishingblog2023.herokuapp.com', 'localhost']
 ALLOWED_HOSTS = ['8000-pierreslag-fishingblog-clqkiqnsd82.ws-eu101.gitpod.io']
+ALLOWED_HOSTS = ['fishingblog2023-e64fa3980001.herokuapp.com']
 
 
 # Application definition

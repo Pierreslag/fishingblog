@@ -31,9 +31,12 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['fishingblog2023.herokuapp.com', 'localhost']
-ALLOWED_HOSTS = ['8000-pierreslag-fishingblog-clqkiqnsd82.ws-eu101.gitpod.io']
-ALLOWED_HOSTS = ['fishingblog2023-e64fa3980001.herokuapp.com']
+ALLOWED_HOSTS = [
+    'fishingblog2023.herokuapp.com',
+    'localhost',
+    '8000-pierreslag-fishingblog-clqkiqnsd82.ws-eu101.gitpod.io',
+    'fishingblog2023-e64fa3980001.herokuapp.com'
+]
 
 
 # Application definition
@@ -47,6 +50,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
+    'django_summernote',
     'blog',
 ]
 

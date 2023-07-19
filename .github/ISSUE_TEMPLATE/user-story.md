@@ -7,4 +7,14 @@ assignees: ''
 
 ---
 
-As a **site visitor** I want to have an **intuitive and accessible front-end design** so that I can **easily navigate and interact with the web application.**
+As a **role** I can **capability** so that **received benefit**
+
+## Acceptance Criteria
+ - Acceptance 1
+ - Acceptance 2
+ - Acceptance 2
+
+## Tasks
+   - [ ] Sample Task 1
+   - [ ] Sample Task 2
+   - [ ] Sample Task 2

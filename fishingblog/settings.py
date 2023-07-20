@@ -36,7 +36,8 @@ ALLOWED_HOSTS = [
     'fishingblog2023.herokuapp.com',
     'localhost',
     '8000-pierreslag-fishingblog-clqkiqnsd82.ws-eu101.gitpod.io',
-    'fishingblog2023-e64fa3980001.herokuapp.com'
+    'fishingblog2023-e64fa3980001.herokuapp.com',
+    '8000-pierreslag-fishingblog-clqkiqnsd82.ws-eu102.gitpod.io',
 ]
 
 

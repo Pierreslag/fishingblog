@@ -9,12 +9,12 @@ body {
     color: white;
 }
 
-.red-sh {
+.sh {
     color: #E84610;
 }
 
 .thin {
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .light-bg {
@@ -132,11 +132,4 @@ body {
     color: #E84610;
     border: none;
     background: transparent;
-}
-
-.btn-like:hover,
-.btn-like:active {
-    color: #E84610;
-    background: transparent;
-    border: none;
 }

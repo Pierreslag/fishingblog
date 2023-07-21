@@ -2,187 +2,187 @@
 
 /* Light blue background */
 body {
-    background-color: #BFE2FF;
-  }
-  
-  /* Dark blue navigation bar */
-  .navbar {
-    background-color: #335577;
-  }
-  
-  /* Light blue text color for navigation links */
-  .nav-link {
-    color: #BFE2FF;
-  }
-  
-  /* Dark blue footer */
-  footer {
-    background-color: #335577;
-  }
-  
-  /* Silver and light blue text color for footer */
-  footer p {
-    color: #C0C0C0;
-  }
-  
-  footer a {
-    color: #BFE2FF;
-    text-decoration: none;
-  }
-  
-  /* Custom styles for specific elements */
-  
-  /* Brand logo */
-  .brand {
-    font-family: Lato, sans-serif;
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: #BFE2FF;
-  }
-  
-  /* Styling for the "sh" class */
-  .sh {
-    color: #E84610;
-  }
-  
-  /* Styling for the "thin" class */
-  .thin {
-    font-weight: 300;
-  }
-  
-  /* Background for light elements */
-  .light-bg {
-    background-color: #BFE2FF;
-  }
-  
-  /* Background for dark elements */
-  .dark-bg {
-    background-color: #335577;
-  }
-  
-  /* Background for main content area */
-  .main-bg {
-    background-color: #BFE2FF;
-  }
-  
-  /* Styling for card elements */
-  .card {
-    border: none;
-    background-color: transparent;
-  }
-  
-  /* Styling for image containers */
-  .image-container {
-    position: relative;
-  }
-  
-  /* Styling for the image flash effect */
-  .image-flash {
-    position: absolute;
-    bottom: 5%;
-    min-width: 30%;
-    left: -2px;
-    background-color: #23BBBB;
-  }
-  
-  /* Styling for author names */
-  .author {
-    color: #BFE2FF;
-    margin: 4px;
-    text-transform: uppercase;
-  }
-  
-  /* Styling for masthead section */
-  .masthead {
-    margin-top: 10px;
-    overflow: hidden;
-    position: relative;
-    display: inline-block;
-    height: 33vh;
-    width: 100%;
-  }
-  
-  /* Styling for masthead text */
-  .masthead-text {
-    background-color: #335577;
-    color: #BFE2FF;
-    position: relative;
-  }
-  
-  /* Styling for masthead images */
-  .masthead-image {
-    position: relative;
-    overflow: hidden;
-  }
-  
-  /* Styling for masthead image overlay */
-  .masthead-image:after {
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 90%;
-    height: 100%;
-    width: 150%;
-    background: #335577;
-    -webkit-transform: skew(15deg);
-    -moz-transform: skew(15deg);
-    transform: skew(15deg);
-    z-index: 100;
-  }
-  
-  /* Styling for post links */
-  .post-link {
-    text-decoration: none;
-    color: #445261;
-  }
-  
-  /* Styling for post links on hover */
-  .post-link:hover,
-  .page-link {
-    color: #E84610;
-  }
-  
-  /* Styling for post titles */
-  .post-title {
-    margin-top: 20%;
-    margin-left: 5%;
-  }
-  
-  /* Styling for post subtitles */
-  .post-subtitle {
-    margin-left: 5%;
-    color: lightgray;
-  }
-  
-  /* Styling for signup button */
-  .btn-signup {
-    background-color: #23BBBB;
-    color: #fff;
-  }
-  
-  /* Styling for signup button on hover and active */
-  .btn-signup:hover,
-  .btn-signup:active {
-    background-color: #fff;
-    color: #23BBBB;
-  }
-  
-  /* Styling for links */
-  .link {
-    color: #23BBBB;
-    text-decoration: none;
-  }
-  
-  /* Styling for links on hover and active */
-  .link:hover,
-  .link:active {
-    color: #445261;
-    text-decoration: underline;
-  }
-  
-  /* Styling for like button */
-  .btn-like {
-    color: #E84610;
-    border: none;
-    background: transparent;
-  }
+  background-color: #BFE2FF;
+}
+
+/* Dark blue navigation bar */
+.navbar {
+  background-color: #335577;
+}
+
+/* Light blue text color for navigation links */
+.nav-link {
+  color: #BFE2FF;
+}
+
+/* Dark blue footer */
+footer {
+  background-color: #335577;
+}
+
+/* Silver and light blue text color for footer */
+footer p {
+  color: #C0C0C0;
+}
+
+footer a {
+  color: #BFE2FF;
+  text-decoration: none;
+}
+
+/* Custom styles for specific elements */
+
+/* Brand logo */
+.brand {
+  font-family: Lato, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #BFE2FF;
+}
+
+/* Styling for the "sh" class */
+.sh {
+  color: #E84610;
+}
+
+/* Styling for the "thin" class */
+.thin {
+  font-weight: 300;
+}
+
+/* Background for light elements */
+.light-bg {
+  background-color: #BFE2FF;
+}
+
+/* Background for dark elements */
+.dark-bg {
+  background-color: #335577;
+}
+
+/* Background for main content area */
+.main-bg {
+  background-color: #BFE2FF;
+}
+
+/* Styling for card elements */
+.card {
+  border: none;
+  background-color: transparent;
+}
+
+/* Styling for image containers */
+.image-container {
+  position: relative;
+}
+
+/* Styling for the image flash effect */
+.image-flash {
+  position: absolute;
+  bottom: 5%;
+  min-width: 30%;
+  left: -2px;
+  background-color: #335577;
+}
+
+/* Styling for author names */
+.author {
+  color: #BFE2FF;
+  margin: 4px;
+  text-transform: capitalize;
+}
+
+/* Styling for masthead section */
+.masthead {
+  margin-top: 10px;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  height: 33vh;
+  width: 100%;
+}
+
+/* Styling for masthead text */
+.masthead-text {
+  background-color: #335577;
+  color: #BFE2FF;
+  position: relative;
+}
+
+/* Styling for masthead images */
+.masthead-image {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Styling for masthead image overlay */
+.masthead-image:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 90%;
+  height: 100%;
+  width: 150%;
+  background: #335577;
+  -webkit-transform: skew(15deg);
+  -moz-transform: skew(15deg);
+  transform: skew(15deg);
+  z-index: 100;
+}
+
+/* Styling for post links */
+.post-link {
+  text-decoration: none;
+  color: #445261;
+}
+
+/* Styling for post links on hover */
+.post-link:hover,
+.page-link {
+  color: #E84610;
+}
+
+/* Styling for post titles */
+.post-title {
+  margin-top: 20%;
+  margin-left: 5%;
+}
+
+/* Styling for post subtitles */
+.post-subtitle {
+  margin-left: 5%;
+  color: lightgray;
+}
+
+/* Styling for signup button */
+.btn-signup {
+  background-color: #23BBBB;
+  color: #fff;
+}
+
+/* Styling for signup button on hover and active */
+.btn-signup:hover,
+.btn-signup:active {
+  background-color: #fff;
+  color: #23BBBB;
+}
+
+/* Styling for links */
+.link {
+  color: #23BBBB;
+  text-decoration: none;
+}
+
+/* Styling for links on hover and active */
+.link:hover,
+.link:active {
+  color: #445261;
+  text-decoration: underline;
+}
+
+/* Styling for like button */
+.btn-like {
+  color: #E84610;
+  border: none;
+  background: transparent;
+}

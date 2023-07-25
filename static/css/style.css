@@ -35,16 +35,6 @@ footer a {
   color: #BFE2FF;
 }
 
-/* Styling for the "thin" class */
-.thin {
-  font-weight: 300;
-}
-
-/* Background for light elements */
-.light-bg {
-  background-color: #BFE2FF;
-}
-
 /* Background for dark elements */
 .dark-bg {
   background-color: #335577;

@@ -119,14 +119,12 @@ footer a {
 .masthead-image:after {
   content: "";
   position: absolute;
-  top: 0;
-  right: 90%;
+  top: -10%;
+  right: 80%;
   height: 100%;
-  width: 150%;
+  width: 100%;
   background: #335577;
-  -webkit-transform: skew(15deg);
-  -moz-transform: skew(15deg);
-  transform: skew(15deg);
+  border-radius: 50%;
   z-index: 100;
 }
 
@@ -154,31 +152,12 @@ footer a {
   color: lightgray;
 }
 
-/* Styling for signup button */
-.btn-signup {
-  background-color: #23BBBB;
-  color: #fff;
-}
-
-/* Styling for signup button on hover and active */
-.btn-signup:hover,
-.btn-signup:active {
-  background-color: #fff;
-  color: #23BBBB;
-}
-
 /* Styling for links */
 .link {
   color: #23BBBB;
   text-decoration: none;
 }
 
-/* Styling for links on hover and active */
-.link:hover,
-.link:active {
-  color: #445261;
-  text-decoration: underline;
-}
 
 /* Styling for like button */
 .btn-like {

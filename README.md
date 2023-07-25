@@ -6,8 +6,6 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 ## Features
 
-
-
 ### Existing Features
 
 - __Blogposts__
@@ -17,10 +15,17 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 ![Feature Image](URL)
 
+- __Blogposts edit/delete__
+
+  - For the owner to edit and delete his posts.
+  - To keep relative information up to date.
+
+![Feature Image](URL)
+
 - __Fishing Journal__
 
-  - Description of the feature's purpose and benefits for the user.
-  - Explanation of how this feature is valuable to the target audience.
+  - For members to keep a private fishing journal of their fishing information.
+  - Easy way to keep track of all fishing trips.
 
 ![Feature Image](URL)
 

@@ -69,8 +69,8 @@ footer a {
 /* Styling for entry-card */
 .entry-card {
   display: inline-block;
-  background-color: #FFF;
-  border: 1px solid #E84610;
+  background-color: #FDF1DC;
+  border: 3px solid #E84610;
   border-radius: 5px;
 }
 

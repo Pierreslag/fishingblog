@@ -33,6 +33,29 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 - Feature idea and description of its purpose and benefits.
 
+## Agile Development
+Started the agile aproach with thinking about what this website / blog is going to need. Put it down on my notes as a small draft and then got to work with adding the diffrent user stories.
+was aiming to get 12 of them.
+Links to the user stories below!
+### __Complete User Stories__
+- [USER STORY: Intuitive and Accessible Front-End Design](https://github.com/Pierreslag/fishingblog/issues/1)
+- [USER STORY: User Account Sign-Up](https://github.com/Pierreslag/fishingblog/issues/2)
+- [USER STORY: Social Media Integration](https://github.com/Pierreslag/fishingblog/issues/3)
+- [USER STORY: Contact Administrator/Author](https://github.com/Pierreslag/fishingblog/issues/4)
+- [USER STORY: View List of Posts](https://github.com/Pierreslag/fishingblog/issues/5)
+- [USER STORY: Like a Post](https://github.com/Pierreslag/fishingblog/issues/6)
+- [USER STORY: Log Out](https://github.com/Pierreslag/fishingblog/issues/7)
+- [USER STORY: Comment on a Post](https://github.com/Pierreslag/fishingblog/issues/9)
+- [USER STORY: Manage Fishing Journal Entries (CRUD)](https://github.com/Pierreslag/fishingblog/issues/12)
+- [USER STORY: Create and Publish New Posts](https://github.com/Pierreslag/fishingblog/issues/13)
+- [USER STORY: Edit or Update Existing Posts](https://github.com/Pierreslag/fishingblog/issues/14)
+
+### __Incomplete User Stories__
+- [USER STORY: Sort Posts](https://github.com/Pierreslag/fishingblog/issues/8)
+
+
+
+
 ## Testing
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part, you will want to go over all of your project's features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.

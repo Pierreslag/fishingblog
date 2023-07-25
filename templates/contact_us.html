@@ -4,14 +4,15 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 mt-3 offset-md-2">
-                <h3>Contact</h3>
-                    <p>Reel in your thoughts, hook me with your suggestions,
+                <h1>Contact</h1>
+                    <p class="lead">
+                        Reel in your thoughts, hook me with your suggestions,
                         or cast your incredible fishing tales my way! I'm all
                         about fishing and fun at "Swedish Angler's Diary"
                         and I can't wait to hear from you. Whether it's tips, stories,
                         or anything fishy, drop me a line, and I'll be hooked on your message.
                     </p>
-                    <p>Tight lines and happy fishing!</p>
+                    <p class="lead">Tight lines and happy fishing!</p>
                 <form method="post">
                     {% csrf_token %}
                     {{ form.as_p }}

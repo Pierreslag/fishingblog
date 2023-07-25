@@ -40,11 +40,6 @@ footer a {
   color: #BFE2FF;
 }
 
-/* Styling for the "sh" class */
-.sh {
-  color: #E84610;
-}
-
 /* Styling for the "thin" class */
 .thin {
   font-weight: 300;
@@ -69,6 +64,14 @@ footer a {
 .card {
   border: none;
   background-color: transparent;
+}
+
+/* Styling for entry-card */
+.entry-card {
+  display: inline-block;
+  background-color: #FFF;
+  border: 1px solid #E84610;
+  border-radius: 5px;
 }
 
 /* Styling for image containers */

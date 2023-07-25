@@ -1,28 +1,28 @@
-# Fishing blog
+# Swedish Angler's Diary
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project, so use it! Don't introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
+The idea for "Swedish Angler's Dairy" is to document the owner's journey of discoveries and adventures here in Sweden. And for members to be able to leave feedback and keep track of their own fishing trips.
 
-![Responsice Mockup](insert_mockup_image_url_here)
+![Responsice Mockup](URL)
 
 ## Features
 
-In this section, you should go over the different parts of your project and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve, and how your project is the best way to help them achieve these things.
+
 
 ### Existing Features
 
-- __Feature Name__
+- __Blogposts__
+
+  - For the owner to share his journey and for fishing enthusiasts to read.
+  - Eduacantion and fun reading wile also getting some tips.
+
+![Feature Image](URL)
+
+- __Fishing Journal__
 
   - Description of the feature's purpose and benefits for the user.
   - Explanation of how this feature is valuable to the target audience.
 
-![Feature Image](insert_feature_image_url_here)
-
-- __Feature Name__
-
-  - Description of the feature's purpose and benefits for the user.
-  - Explanation of how this feature is valuable to the target audience.
-
-![Feature Image](insert_feature_image_url_here)
+![Feature Image](URL)
 
 ### Features Left to Implement
 
@@ -74,18 +74,3 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The photos used on the home and sign-up page are from This Open Source site
 - The images used for the gallery page were taken from this other open-source site
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio, so it's important to allow enough time to showcase your best work!
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message.
-  - Make sure to keep the messages in the imperative mood.
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, pointing to specific names and sections of content.
-  - For example, instead of naming an image used 'image1.png', consider naming it 'landing_page_img.png'. This will ensure that there are clear file paths kept.
-
-- Do some extra research on good and bad coding practices; there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)

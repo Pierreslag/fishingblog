@@ -62,6 +62,7 @@
         </div>
     </nav>
 
+    <!-- Messages Container -->
     <div class="container" id="messages-container">
         <div class="row">
             <div class="col-md-8 offset-md-2">
@@ -75,6 +76,7 @@
         </div>
     </div>
 
+    <!-- Main content -->
     <main class="flex-shrink-0 main-bg">
         {% block content %}
         <!-- Content Goes here -->
@@ -99,12 +101,14 @@
             </a>
         </p>
     </footer>
+
+    <!-- Alert Close function -->
     <script>
         setTimeout(function () {
             let messages = document.getElementById('msg');
             let alert = new bootstrap.Alert(messages);
             alert.close();
-        }, 2000);
+        }, 3500);
     </script>
 </body>
 

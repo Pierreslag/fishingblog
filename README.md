@@ -31,7 +31,7 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 ### Features Left to Implement
 
-- Feature idea and description of its purpose and benefits.
+- User profile to personalize the page abit.
 
 ## Agile Development
 Started the agile aproach with thinking about what this website / blog is going to need. Put it down on my notes as a small draft and then got to work with adding the diffrent user stories.
@@ -52,9 +52,6 @@ Links to the user stories below!
 
 ### __Incomplete User Stories__
 - [USER STORY: Sort Posts](https://github.com/Pierreslag/fishingblog/issues/8)
-
-
-
 
 ## Testing
 

@@ -87,17 +87,13 @@ The live link can be found here - insert_live_link_here
 
 ## Credits
 
-In this section, you need to reference where you got your content, media, and extra help from. It is common practice to use code from other repositories and tutorials; however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-
-### Content
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page were taken from [Specific YouTube Tutorial](insert_youtube_tutorial_url_here)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Bootstrap CSS Framework: [https://getbootstrap.com/](https://getbootstrap.com/)
+- Font Awesome Icons: [https://fontawesome.com/](https://fontawesome.com/)
+- Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 
 ### Media
 
-- The photos used on the home and sign-up page are from This Open Source site
-- The images used for the gallery page were taken from this other open-source site
+- Photos and images on page are from [Pexels](https://www.pexels.com/)
+- Favicon from [iconarchive](https://www.iconarchive.com/)
+
+Website created by [Pierre Slagbrand](https://github.com/Pierreslag).

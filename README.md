@@ -49,6 +49,9 @@ Links to the user stories below!
 - [USER STORY: Create and Publish New Posts](https://github.com/Pierreslag/fishingblog/issues/13)
 - [USER STORY: Edit or Update Existing Posts](https://github.com/Pierreslag/fishingblog/issues/14)
 
+### __In Progress User Stories__
+- [USER STORY: TESTING](https://github.com/Pierreslag/fishingblog/issues/16)
+
 ### __Incomplete User Stories__
 - [USER STORY: Sort Posts](https://github.com/Pierreslag/fishingblog/issues/8)
 

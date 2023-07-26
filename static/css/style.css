@@ -50,7 +50,7 @@ footer a {
 .entry-card {
   display: inline-block;
   background-color: #FDF1DC;
-  border: 3px solid #E84610;
+  border: 3px solid #335577;
   border-radius: 5px;
   box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
   padding: 20px;
@@ -109,20 +109,17 @@ footer a {
   width: 100%;
 }
 
-/* Styling for masthead text */
 .masthead-text {
   background-color: #335577;
   color: #BFE2FF;
   position: relative;
 }
 
-/* Styling for masthead images */
 .masthead-image {
   position: relative;
   overflow: hidden;
 }
 
-/* Styling for masthead image overlay */
 .masthead-image:after {
   content: "";
   position: absolute;

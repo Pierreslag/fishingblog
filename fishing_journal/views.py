@@ -2,6 +2,7 @@ from django.shortcuts import render, redirect, get_object_or_404
 from .models import FishingJournalEntry
 from .forms import FishingJournalEntryForm
 from django.contrib.auth.decorators import login_required
+from django.contrib import messages
 
 
 @login_required
@@ -18,6 +19,7 @@ def create_entry(request):
             entry = form.save(commit=False)
             entry.user = request.user
             entry.save()
+            messages.success(request, 'Entry Saved')
             return redirect('fishing_journal:entry_base')
     else:
         form = FishingJournalEntryForm()
@@ -32,6 +34,7 @@ def update_entry(request, entry_id):
         form = FishingJournalEntryForm(request.POST, instance=entry)
         if form.is_valid():
             form.save()
+            messages.success(request, 'Entry Updated')
             return redirect('fishing_journal:entry_base')
 
     form = FishingJournalEntryForm(instance=entry)
@@ -44,6 +47,7 @@ def delete_entry(request, entry_id):
 
     if request.method == 'POST':
         entry.delete()
+        messages.success(request, 'Entry Deleted')
         return redirect('fishing_journal:entry_base')
 
     return render(request, 'fishing_journal/delete_entry.html', {'entry': entry})

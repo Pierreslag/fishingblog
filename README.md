@@ -2,7 +2,7 @@
 
 The idea for "Swedish Angler's Dairy" is to document the owner's journey of discoveries and adventures here in Sweden. And for members to be able to leave feedback and keep track of their own fishing trips.
 
-![Responsice Mockup](URL)
+![Responsice Mockup](/static/images/responsive.jpg)
 
 ## Features
 

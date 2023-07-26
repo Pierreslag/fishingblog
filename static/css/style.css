@@ -52,7 +52,31 @@ footer a {
   background-color: #FDF1DC;
   border: 3px solid #E84610;
   border-radius: 5px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.2);
+  padding: 20px;
 }
+
+.entry-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+.entry-card p {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+.entry-card .btn {
+  margin-top: 10px;
+}
+
+.entry-card:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease;
+  background-color: #FBE8D6;
+}
+
 
 /* Styling for image containers */
 .image-container {

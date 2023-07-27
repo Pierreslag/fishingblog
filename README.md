@@ -133,14 +133,31 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## __Deployment__
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g., GitHub).
+Step 1: Set up your local project
+1. Create a new project or use an existing one on your local machine. Make sure it has all the necessary code.
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab.
-  - From the source section drop-down menu, select the Master Branch.
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+Step 2: Set up a GitHub repository
+1. If you don't have a GitHub account, sign up for one.
+2. Create a new repository on GitHub to host your project.
+3. Push your local project to the newly created GitHub repository.
 
-The live link can be found here - insert_live_link_here
+Step 3: Configure environment variables on Heroku
+1. Sign in to your Heroku account or create one if you don't have it.
+2. Create a new Heroku app by clicking the "New" button and selecting "Create new app."
+3. Under the "Settings" tab, click on "Reveal Config Vars."
+4. Add the necessary environment variables, such as CLOUDINARY_URL, DATABASE_URL, PORT etc.
+
+Step 4: Deploy your app to Heroku
+1. Connect your Heroku app to your GitHub repository. Under the "Deploy" tab, choose "GitHub" as your deployment method and link it to the appropriate repository.
+2. Choose the branch you want to deploy (usually the main/master branch).
+3. Enable automatic deployments if you want your app to be automatically updated whenever you push changes to the selected branch on GitHub.
+4. Click "Deploy Branch" to initiate the deployment process.
+
+Step 5: Verify your deployment
+1. Once the deployment is complete, Heroku will provide you with the URL of your deployed app.
+2. Open the provided URL in your web browser to ensure that your app is working correctly.
+
+That's it! Your app should now be deployed. Any changes you push to the linked GitHub repository will trigger automatic updates to your deployed app.
 
 ## __Credits__
 

@@ -13,21 +13,28 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
   - For the owner to share his journey and for fishing enthusiasts to read.
   - Eduacantion and fun reading wile also getting some tips.
 
-![Feature Image](URL)
+![Feature Image](/static/images/readmeimages/posts.jpg)
 
 - __Blogposts edit/delete__
 
   - For the owner to edit and delete his posts.
   - To keep relative information up to date.
 
-![Feature Image](URL)
+![Feature Image](/static/images/readmeimages/editpostsadmin.jpg)
 
 - __Fishing Journal__
 
   - For members to keep a private fishing journal of their fishing information.
   - Easy way to keep track of all fishing trips.
 
-![Feature Image](URL)
+![Feature Image](/static/images/readmeimages/journal.jpg)
+
+- __Contact__
+
+  - For visitors and members to be able to contact owner.
+  - Leave feedback or ask questions
+
+![Feature Image](/static/images/readmeimages/contact.jpg)
 
 ### __Features Left to Implement__
 

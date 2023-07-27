@@ -3,6 +3,7 @@ from django.views import generic, View
 from django.http import HttpResponseRedirect
 from .models import Post
 from .forms import CommentForm, ContactForm
+from django.contrib import messages
 
 
 class PostList(generic.ListView):
@@ -83,6 +84,7 @@ def contact_us(request):
         form = ContactForm(request.POST)
         if form.is_valid():
             form.save()
+            messages.success(request, 'Contact message sent')
             return redirect(reverse('home'))
     else:
         form = ContactForm()

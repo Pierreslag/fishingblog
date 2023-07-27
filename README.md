@@ -112,6 +112,7 @@ Links to the user stories below!
 | Edit a Post                    | Passed            |
 | Delete a Post                  | Passed            |
 | Responsiveness for Devices     | Passed            |
+| Alert Messages                 | Passed            |
 
 ### __Validator Testing__
 

@@ -81,7 +81,7 @@ You should also mention any interesting bugs or problems you discovered during y
 
 ### __Lighthouse Testing__
 
-- entry_base.html ![entry_base](/static/images/readmeimages/lighthouseentrypage.jpg)
+- entry_base.html ![entry_base]()
 - base.html ![base](/static/images/readmeimages)
 
 ### __Unfixed Bugs__

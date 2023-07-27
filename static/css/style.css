@@ -183,3 +183,16 @@ footer a {
 .navbar-light .navbar-nav .nav-link {
   color: #BFE2FF;
 }
+
+/* Styling for the pagination links */
+.pagination {
+  margin-top: 5px;
+}
+
+.pagination li a {
+  padding: 5px 10px;
+  border: 1px solid #335577;
+  background-color: #f8f8f8;
+  color: #335577;
+  text-decoration: none;
+}

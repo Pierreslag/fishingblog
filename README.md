@@ -127,10 +127,6 @@ Links to the user stories below!
 
 - entry_base.html ![base.html](/static/images/readmeimages/lighthouseentrypage.jpg)
 
-### __Unfixed Bugs__
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, the paucity of time and difficulty understanding the implementation is not a valid reason to leave bugs unfixed.
-
 ## __Deployment__
 
 Step 1: Set up your local project

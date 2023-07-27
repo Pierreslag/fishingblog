@@ -15,7 +15,7 @@
             <div class="d-none d-md-block col-md-6 masthead-image">
                 <!-- The featured image URL goes in the src attribute -->
                 {% if "placeholder" in post.featured_image.url %}
-                    <img src="/static/images/pexels-lumn-294674.jpg" width="100%">
+                    <img src="{% static 'images/pexels-lumn-294674.jpg' %}" width="100%">
                 {% else %}
                     <img src="{{ post.featured_image.url }}" width="100%">
                 {% endif %}
@@ -28,16 +28,11 @@
     <div class="row">
         <div class="col card mb-4 mt-3 left top">
             <div class="card-body">
-                <!-- The post content goes inside the card-text. -->
-                <!-- Use the | safe filter inside the template tags -->
                 <div class="card-body">
-                    <!-- The post content goes inside the card-text. -->
-                    <!-- Use the | safe filter inside the template tags -->
                     {% if post.excerpt %}
                         <p class="card-text">{{ post.excerpt | safe }}</p>
                     {% endif %}
                     <p class="card-text">{{ post.content | safe }}</p>
-                    <!-- ... Rest of the code ... -->
                 </div>
                 <div class="row">
                     <div class="col-1">

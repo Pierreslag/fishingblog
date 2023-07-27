@@ -10,7 +10,7 @@ from django.views.generic import ListView
 def entry_base(request):
     return ListView.as_view(
         model=FishingJournalEntry,
-        paginate_by=6,
+        paginate_by=1,
         template_name='fishing_journal/entry_base.html',
         context_object_name='entries',
         queryset=FishingJournalEntry.objects.filter(user=request.user),

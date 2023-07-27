@@ -32,6 +32,12 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 ![Feature Image](/static/images/readmeimages/contact.jpg)
 
+- __Sign in/up/out__ (similar layout)
+  - For visitors and members to be able to login, logout and signup.
+  - To become a member of the blog
+
+![Feature Image](/static/images/readmeimages/register.jpg)
+
 ### __Features Left to Implement__
 
 - User profile to personalize the page abit.

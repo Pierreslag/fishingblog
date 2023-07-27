@@ -1,12 +1,12 @@
-# Swedish Angler's Diary
+# __Swedish Angler's Diary__
 
 The idea for "Swedish Angler's Dairy" is to document the owner's journey of discoveries and adventures here in Sweden. And for members to be able to leave feedback and keep track of their own fishing trips.
 
-![Responsice Mockup](/static/images/responsive.jpg)
+![Responsive Mockup](/static/images/readmeimages/responsive.jpg)
 
-## Features
+## __Features__
 
-### Existing Features
+### __Existing Features__
 
 - __Blogposts__
 
@@ -29,11 +29,11 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 ![Feature Image](URL)
 
-### Features Left to Implement
+### __Features Left to Implement__
 
 - User profile to personalize the page abit.
 
-## Agile Development
+## __Agile Development__
 Started the agile aproach with thinking about what this website / blog is going to need. Put it down on my notes as a small draft and then got to work with adding the diffrent user stories. Was aiming to get 12 of them.
 Links to the user stories below!
 ### __Complete User Stories__
@@ -55,7 +55,7 @@ Links to the user stories below!
 ### __Incomplete User Stories__
 - [USER STORY: Sort Posts](https://github.com/Pierreslag/fishingblog/issues/8)
 
-## Testing
+## __Testing__
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part, you will want to go over all of your project's features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -63,18 +63,23 @@ You should also mention in this section how your project looks and works on diff
 
 You should also mention any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-### Validator Testing
+### __Validator Testing__
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](insert_html_validator_url_here)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](insert_css_validator_url_here)
 
-### Unfixed Bugs
+### __Lighthouse Testing__
+
+- entry_base.html ![entry_base](/static/images/readmeimages/lighthouseentrypage.jpg)
+- base.html ![base](/static/images/readmeimages)
+
+### __Unfixed Bugs__
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, the paucity of time and difficulty understanding the implementation is not a valid reason to leave bugs unfixed.
 
-## Deployment
+## __Deployment__
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g., GitHub).
 
@@ -85,13 +90,13 @@ This section should describe the process you went through to deploy the project 
 
 The live link can be found here - insert_live_link_here
 
-## Credits
+## __Credits__
 
 - Bootstrap CSS Framework: [https://getbootstrap.com/](https://getbootstrap.com/)
 - Font Awesome Icons: [https://fontawesome.com/](https://fontawesome.com/)
 - Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 
-### Media
+### __Media__
 
 - Photos and images on page are from [Pexels](https://www.pexels.com/)
 - Favicon from [iconarchive](https://www.iconarchive.com/)

@@ -3,12 +3,18 @@ from .models import FishingJournalEntry
 from .forms import FishingJournalEntryForm
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
+from django.views.generic import ListView
 
 
 @login_required
 def entry_base(request):
-    entries = FishingJournalEntry.objects.filter(user=request.user)
-    return render(request, 'fishing_journal/entry_base.html', {'entries': entries})
+    return ListView.as_view(
+        model=FishingJournalEntry,
+        paginate_by=6,
+        template_name='fishing_journal/entry_base.html',
+        context_object_name='entries',
+        queryset=FishingJournalEntry.objects.filter(user=request.user),
+    )(request)
 
 
 @login_required

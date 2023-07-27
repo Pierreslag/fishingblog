@@ -64,6 +64,30 @@ Links to the user stories below!
 ### __Incomplete User Stories__
 - [USER STORY: Sort Posts](https://github.com/Pierreslag/fishingblog/issues/8)
 
+## __Custom Model__
+### __FishingJournalEntry__
+
+| Field         | Type              |
+|---------------|-------------------|
+| id            | AutoField (PK)    |
+| user          | ForeignKey (FK)   |
+| title         | CharField         |
+| location      | CharField         |
+| date          | DateField         |
+| catch_details | TextField         |
+| notes         | TextField (optional) |
+
+### __ContactMessage__
+
+| Field          | Type              |
+|----------------|-------------------|
+| id             | AutoField (PK)    |
+| name           | CharField         |
+| email          | EmailField        |
+| subject        | CharField         |
+| message        | TextField         |
+| created_on     | DateTimeField     |
+
 ## __Testing__
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part, you will want to go over all of your project's features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.

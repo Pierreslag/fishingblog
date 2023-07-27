@@ -90,11 +90,28 @@ Links to the user stories below!
 
 ## __Testing__
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part, you will want to go over all of your project's features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Manual Testing Summary
 
-You should also mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+| Functionality                  | Test Result       |
+|--------------------------------|-------------------|
+| Sign In                        | Passed            |
+| Sign Out                       | Passed            |
+| Sign Up                        | Passed            |
+| Register                       | Passed            |
+| Contact Us                     | Passed            |
+| Comment                        | Passed            |
+| Like                           | Passed            |
+| Dislike                        | Passed            |
+| Add Entry                      | Passed            |
+| Edit Entry                     | Passed            |
+| Delete Entry                   | Passed            |
+| Pagination                     | Passed            |
+| Social Links                   | Passed            |
+| Navigation Bar                 | Passed            |
+| Post a Post                    | Passed            |
+| Edit a Post                    | Passed            |
+| Delete a Post                  | Passed            |
+| Responsiveness for Devices     | Passed            |
 
 ### __Validator Testing__
 

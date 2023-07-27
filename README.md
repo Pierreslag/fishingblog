@@ -123,8 +123,7 @@ Links to the user stories below!
 
 ### __Lighthouse Testing__
 
-- entry_base.html ![entry_base](/static/images/readmeimages/lighthouseentrypage.jpg)
-- base.html ![base](/static/images/readmeimages)
+- base.html ![base.html](/static/images/readmeimages/lighthousefirst.jpg)
 
 ### __Unfixed Bugs__
 

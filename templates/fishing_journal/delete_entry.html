@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 mt-3 offset-md-2">
-                <h1>Delete Fishing Journal Entry</h1>
+                <h1>Delete Fishing Journal Entry</h1> <!-- Delete Fishing Journal Entry -->
                 <p class="lead">Are you sure you want to delete "{{ entry.title }}"?</p>
                 <form method="post" action="{% url 'fishing_journal:delete_entry' entry.id %}">
                     {% csrf_token %}

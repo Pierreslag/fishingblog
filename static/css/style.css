@@ -45,10 +45,6 @@ footer a {
   background-color: transparent;
 }
 
-#postdetails {
-  color: #335577;
-}
-
 /* Styling for entry-card */
 .entry-card {
   display: inline-block;
@@ -79,7 +75,6 @@ footer a {
   transition: transform 0.2s ease;
   background-color: #FBE8D6;
 }
-
 
 /* Styling for image containers */
 .image-container {
@@ -140,7 +135,6 @@ footer a {
   color: #445261;
 }
 
-/* Styling for post links on hover */
 .post-link:hover,
 .page-link {
   color: #E84610;
@@ -156,6 +150,10 @@ footer a {
 .post-subtitle {
   margin-left: 5%;
   color: lightgray;
+}
+
+#postdetails {
+  color: #335577;
 }
 
 /* Styling for links */

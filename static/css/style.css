@@ -46,6 +46,10 @@ footer a {
   background-color: transparent;
 }
 
+#postdetails {
+  color: #335577;
+}
+
 /* Styling for entry-card */
 .entry-card {
   display: inline-block;
@@ -176,4 +180,12 @@ footer a {
   left: 0;
   right: 0;
   z-index: 9999;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #BFE2FF;
+}
+
+#nav-msg {
+  color: #BFE2FF;
 }

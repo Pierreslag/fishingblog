@@ -125,7 +125,7 @@ Started the agile aproach with thinking about what this website / blog is going 
 
 ### __Lighthouse Testing__
 
-- base.html ![base.html](/static/images/readmeimages/lighthousefirst.jpg)
+- base.html ![base.html]()
 
 - entry_base.html ![base.html](/static/images/readmeimages/lighthouseentrypage.jpg)
 

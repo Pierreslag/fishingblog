@@ -4,6 +4,8 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 ![Responsive Mockup](/static/images/readmeimages/responsive.jpg)
 
+[Live link here!](https://fishingblog2023-e64fa3980001.herokuapp.com/)
+
 ## __Features__
 
 ### __Existing Features__
@@ -56,8 +58,6 @@ Started the agile aproach with thinking about what this website / blog is going 
 - [USER STORY: Manage Fishing Journal Entries (CRUD)](https://github.com/Pierreslag/fishingblog/issues/12)
 - [USER STORY: Create and Publish New Posts](https://github.com/Pierreslag/fishingblog/issues/13)
 - [USER STORY: Edit or Update Existing Posts](https://github.com/Pierreslag/fishingblog/issues/14)
-
-### __In Progress User Stories__
 - [USER STORY: TESTING](https://github.com/Pierreslag/fishingblog/issues/16)
 
 ### __Incomplete User Stories__

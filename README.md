@@ -118,10 +118,14 @@ Started the agile aproach with thinking about what this website / blog is going 
 
 ### __Validator Testing__
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](insert_html_validator_url_here)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](insert_css_validator_url_here)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://validator.w3.org/nu/#textarea)
+![base.html](/static/images/readmeimages/cssvali.jpg)
+
+### __Bugs__
+
+- HTML
+  - Errors were returned when passing through the official, loading static and the use of "{}" tags stopped validation [W3C validator](https://validator.w3.org/#validate_by_input)
 
 ### __Lighthouse Testing__
 

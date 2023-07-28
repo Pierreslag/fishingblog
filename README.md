@@ -44,7 +44,6 @@ The idea for "Swedish Angler's Dairy" is to document the owner's journey of disc
 
 ## __Agile Development__
 Started the agile aproach with thinking about what this website / blog is going to need. Put it down on my notes as a small draft and then got to work with adding the diffrent user stories. Was aiming to get 12 of them.
-Links to the user stories below!
 ### __Complete User Stories__
 - [USER STORY: Intuitive and Accessible Front-End Design](https://github.com/Pierreslag/fishingblog/issues/1)
 - [USER STORY: User Account Sign-Up](https://github.com/Pierreslag/fishingblog/issues/2)
@@ -63,6 +62,9 @@ Links to the user stories below!
 
 ### __Incomplete User Stories__
 - [USER STORY: Sort Posts](https://github.com/Pierreslag/fishingblog/issues/8)
+
+### __Wireframes__
+![wireframe](/static/images/readmeimages/wireframes.jpg)
 
 ## __Custom Model__
 ### __FishingJournalEntry__
